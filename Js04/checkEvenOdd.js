@@ -9,3 +9,4 @@
  }
  console.log(checkEvenOdd(12));
     console.log(checkEvenOdd(9));
+    module.exports = checkEvenOdd;

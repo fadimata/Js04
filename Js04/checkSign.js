@@ -8,3 +8,4 @@ function checkSign(x){
 console.log(checkSign(-5));
 console.log(checkSign(8));  
 console.log(checkSign(6));  
+module.exports = checkSign;
