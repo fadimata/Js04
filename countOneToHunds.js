@@ -5,4 +5,4 @@ console.log(i);
 }
 }
 nombre();
-module.exports = countOneToHunds;
+module.exports = nombre;
